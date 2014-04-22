@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<!--
+  - Copyright 2014 Alexander Salas
+  -
+  - This Source Code Form is subject to the terms 
+  - of the Mozilla Public License, v. 2.0. If a copy 
+  - of the MPL was not distributed with this file, 
+  - You can obtain one at:
+
+  -    http://www.mozilla.org/MPL/2.0/
+
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{e701c330-c51e-11e3-9c1a-0800200c9a66}</em:id>
+	<em:unpack>true</em:unpack>
+    <em:name>SocialMediaTXT</em:name>
+    <em:description>SocialMediaTXT with Australis UI.</em:description>
+    <em:version>1.0</em:version>
+    <em:creator>Alexander Salas</em:creator>
+	<em:contributor>Ernesto Chapon</em:contributor>.
+	<em:translator>Fatma Youssef</em:translator>
+    <em:homepageURL>https://github.com/socialmediatxt/socialmediatxt-addon/</em:homepageURL>
+	<em:iconURL>chrome://socialmediatext/skin/icon32.svg</em:iconURL>
+	<em:icon64URL>chrome://socialmediatext/skin/icon64.svg</em:icon64URL>
+    <em:bootstrap>true</em:bootstrap>
+    <em:type>2</em:type>
+
+    <!-- Mozilla Firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>29.0a1</em:minVersion>
+        <em:maxVersion>31.0a1</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

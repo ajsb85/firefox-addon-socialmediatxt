@@ -1,0 +1,22 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+@-moz-document url("chrome://browser/content/browser.xul") {
+  #socialmediatext-button {
+    list-style-image: url("chrome://socialmediatext/skin/icon16.svg");
+  }
+
+  #socialmediatext-button[cui-areatype="menu-panel"],
+  toolbarpaletteitem[place="palette"] > #socialmediatext-button {
+    list-style-image: url("chrome://socialmediatext/skin/icon32.svg");
+  }
+
+  /* Necessary to mimic the behavior of all other buttons, which are darker when
+    pressed.
+  #socialmediatext-button:hover:active:not([disabled="true"]):not([cui-areatype="menu-panel"]) {
+    list-style-image: url("chrome://socialmediatext/skin/icon32-dark.svg");
+  }*/
+
+  #socialmediatext-panel {
+    width: 48px;
+  }
+}

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg5711"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon32.svg">
+  <title
+     id="title3757">SocialMediaTXT</title>
+  <defs
+     id="defs5713" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.3125"
+     inkscape:cx="9.1851852"
+     inkscape:cy="16"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5716">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SocialMediaTXT</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>2014-04-20</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ernesto Chapon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en-US</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Social Media</rdf:li>
+            <rdf:li>Web crawler</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Alexander Salas</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:identifier></dc:identifier>
+        <dc:source>https://github.com/socialmediatxt/socialmediatxt-iconography</dc:source>
+        <dc:description>Iconography
+</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-318,-532.36218)">
+    <path
+       id="rect4000-6-6"
+       style="fill:#8c98a4;fill-opacity:1;stroke:none"
+       d="m 323.41502,539.91792 c -1.19587,0.0897 -2.12248,0.75998 -2.5,1.76563 -0.61153,1.62899 -0.42953,3.8607 0.20312,4.73437 0.29132,0.40231 0.65947,0.74711 0.89063,0.96875 0.23116,0.22165 0.19353,0.4639 0.1875,0.75 -0.007,0.3088 -0.2549,0.6747 -0.46875,0.95313 -1.46959,0.17818 -2.81817,0.53859 -3.71875,1.125 l 0,4.59375 13.28125,0 c 0,0 -0.24288,-3.84138 -1.39063,-4.57813 -0.78384,-0.50314 -2.21559,-0.90034 -3.76562,-1.10937 -0.21413,-0.2797 -0.46205,-0.66671 -0.46875,-0.98438 -0.006,-0.2609 -0.0855,-0.48901 0.15625,-0.70312 0.24168,-0.21412 0.64234,-0.52363 0.92187,-0.90625 0.58659,-0.80289 0.86655,-4.24296 0,-5.35938 -0.86639,-1.11641 -1.74012,-1.22357 -2.79687,-1.25 -0.18061,-0.0113 -0.36041,-0.0128 -0.53125,0 z m 20.09184,0.0157 c -1.19586,0.0897 -2.1381,0.74434 -2.51562,1.75 -0.61152,1.62898 -0.42953,3.87631 0.20312,4.75 0.29132,0.4023 0.65947,0.73147 0.89063,0.95312 0.23116,0.22164 0.19353,0.4639 0.1875,0.75 -0.007,0.30879 -0.23927,0.6747 -0.45313,0.95313 -1.47901,0.17932 -2.84951,0.54751 -3.75,1.14062 -1.34306,0.88461 -1.35937,4.57813 -1.35937,4.57813 l 13.28125,0 0,-4.57813 c -0.78384,-0.50315 -2.21559,-0.90034 -3.76563,-1.10937 -0.21412,-0.27971 -0.47766,-0.66671 -0.48437,-0.98438 -0.006,-0.26091 -0.0698,-0.48901 0.17187,-0.70312 0.24169,-0.21412 0.62671,-0.52364 0.90625,-0.90625 0.58659,-0.8029 0.86655,-4.24297 0,-5.35938 -0.8664,-1.11641 -1.74011,-1.20795 -2.79687,-1.23437 -0.18061,-0.0113 -0.34479,-0.0129 -0.51563,0 z"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ssszccsccscczsccs"
+       inkscape:connector-curvature="0"
+       id="path3116-8"
+       d="m 333.24709,537.92412 c -1.6784,0.12587 -2.98956,1.05741 -3.51941,2.46885 -0.85828,2.2863 -0.60779,5.4274 0.28015,6.65362 0.40887,0.56464 0.93625,1.03715 1.26068,1.34823 0.32444,0.31108 0.27111,0.64902 0.26265,1.05057 -0.009,0.4334 -0.3477,0.95746 -0.64786,1.34824 -2.07581,0.25168 -3.98901,0.76093 -5.25285,1.59336 -1.88499,1.24156 -1.92605,6.426 -1.92605,6.426 l 20.5912,0 c 0,0 -0.33268,-5.39198 -1.94356,-6.426 -1.10012,-0.70617 -3.11237,-1.26496 -5.28787,-1.55834 -0.30052,-0.39256 -0.65595,-0.9374 -0.66537,-1.38326 -0.008,-0.36618 -0.11159,-0.68002 0.22763,-0.98053 0.33921,-0.30052 0.88586,-0.74119 1.27819,-1.2782 0.82328,-1.12686 1.21621,-5.94469 0,-7.51158 -1.21599,-1.56689 -2.43896,-1.71386 -3.92213,-1.75096 -0.25349,-0.0159 -0.49563,-0.018 -0.7354,0 z"
+       style="fill:#3f4a56;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
